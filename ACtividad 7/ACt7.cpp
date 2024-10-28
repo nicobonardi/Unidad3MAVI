@@ -32,7 +32,7 @@ int main() {
 	spriteblue.setTexture(texture_blue);
 	// El punto azul tiene 268px de lado, eso significa que si hiciera "800/2 = 400" y esa fuera mi posición horizontal, me quedaría desfasado hacia la derecha
 	// Lo mismo con el alto
-	spriteblue.setPosition((800 - 268) / 2, (600-268) / 2); 
+	spriteblue.setPosition((800 - 368) / 2, (600-368) / 2); 
 
 	//Creamos la ventana
 	sf::RenderWindow App(sf::VideoMode(800, 600, 32), "Sniper nuevo");
