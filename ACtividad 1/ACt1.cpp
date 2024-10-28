@@ -6,7 +6,7 @@ using namespace sf;
 //////Variables//////
 Texture texture1; 
 Sprite sprite1, sprite2, sprite3, sprite4;
-int main() {      
+int main() {
 	//Cargamos la textura del archivo    
 	texture1.loadFromFile("rcircle.png");    
 	// //Cargamos el material del sprite    
