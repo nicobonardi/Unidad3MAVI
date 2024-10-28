@@ -1,0 +1,12 @@
+﻿  ACt5.cpp
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,67): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,67): warning C4244:         with
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,67): warning C4244:         [
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,67): warning C4244:             T=unsigned int
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,67): warning C4244:         ]
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,42): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,42): warning C4244:         with
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,42): warning C4244:         [
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,42): warning C4244:             T=unsigned int
+E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\ACt5.cpp(25,42): warning C4244:         ]
+  ACtividad 5.vcxproj -> E:\Documentos\UNL\Unidad3MAVI\ACtividad 5\Debug\ACtividad 5.exe
